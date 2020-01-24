@@ -1,0 +1,11 @@
+.MuiPaper-rounded{
+    display:flex;
+    justify-content: center;
+}
+.jobListMenu{
+    list-style-type: none;
+}
+.jobListMenu li{
+    display: inline-block;
+    width: 20%;
+}

@@ -1,11 +1,11 @@
 import React from 'react';
 import './App.css';
-import ListUser from './components/user/ListUser';
+import JobPost from './components/user/JobPost';
 
 function App() {
   return (
     <div className="App">
-      <ListUser />
+      <JobPost />
     </div>
   );
 }
