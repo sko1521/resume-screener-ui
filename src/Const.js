@@ -1,1 +1,1 @@
-export const BASE_URL = 'http://192.168.81.83:8080/getJobInfo';
+export const BASE_URL = 'http://localhost:8080/getJobInfo';
